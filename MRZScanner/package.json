@@ -1,6 +1,6 @@
 {
   "name": "com.dynamsoft.rn.mrzscanner",
-  "version": "2.4.2000-alpha.1",
+  "version": "2.4.2000-alpha.2",
   "private": true,
   "scripts": {
     "android": "react-native run-android",
@@ -12,8 +12,8 @@
   "dependencies": {
     "@react-navigation/native": "6.1.18",
     "@react-navigation/native-stack": "6.11.0",
-    "dynamsoft-capture-vision-react-native": "^2.4.2000-alpha.1",
-    "dynamsoft-mrz-react-native": "^3.4.20",
+    "dynamsoft-capture-vision-react-native": "^2.4.2000-alpha.2",
+    "dynamsoft-mrz-react-native": "^3.4.200-alpha.2",
     "react": "18.3.1",
     "react-native": "0.75.2",
     "react-native-safe-area-context": "4.11.0",
